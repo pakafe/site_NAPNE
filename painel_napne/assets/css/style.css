@@ -1,0 +1,106 @@
+
+#addcadastro{
+  position: relative;
+  top: 130px;
+  left: 100px;
+}
+.h1-titulo{
+  font-size: 30px;
+  color: white;
+  line-height: 50px;
+}
+.h1-noticias{
+  font-size: 20px;
+}
+
+#enviar{
+  position: relative;
+  top:210px;
+  right: 60px;
+}
+.p-title{
+  display: block;
+  position: relative;
+
+}
+#nome{
+  position: relative;
+  width: 136%;
+}
+
+
+/*pagina add noticias*/
+#file{
+    position: relative;
+    top: 220px;
+    right: 270px;
+    display: block;
+  } 
+  #enviar{
+    position: relative;
+    top: 280px;
+    right: 380px;
+}
+
+
+/*listar noticias*/
+ #sidebar-listar{
+    margin-top: 10px;
+    }
+    .table{
+    width: 60px;
+    }
+    .all-table{
+    margin-top: 150px;margin-left: 300px;
+
+    }
+
+/*editar-noticias*/
+#content-editar{
+ margin-top: 120px;
+ margin-left: 40%;
+}
+ .label-title{
+  position:relative;
+  top:30px;
+ }
+ .title-editar{
+  margin-top: 10px;
+  margin-left: 90px;
+  display:block;
+ }
+ .description-editar{
+  margin-top: 10px;
+  margin-left: 90px;
+  display:block;
+ }
+.label-description{
+ position: relative;
+ top:35px;
+}
+ .enviar-editar{
+  margin-left: 208px;
+  margin-top: 15px;
+ }
+ .h1-editar{
+  position: relative;
+  top:120px;
+  margin-left: 40%;
+  font-weight:bold;
+  font-size:18px;
+ }
+
+
+/*clearfix*/
+
+.clearfix::before,
+.clearfix::after {
+content: "";
+display: table;
+}
+.clearfix::after {
+clear: both;
+}
+.clearfix {
+*zoom: 1;
+}

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Equipe" value="name:Id;datatype:int,name:Nome;datatype:string,name:Funcao;datatype:string,name:CV_Resumido;datatype:string,name:Lattes;datatype:string" />
+</info>

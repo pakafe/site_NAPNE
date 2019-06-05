@@ -1,0 +1,808 @@
+    /*style*/
+
+    #box,
+    #box1 {
+      cursor: pointer;
+    }
+
+/*cadastro de usuario*/
+ #enviar_usuario{
+    top: 30px;
+    position: relative;
+    right: 59px;
+    }
+    #addcadastro_usuario{
+      margin-top: 200px;
+      margin-left: 30%;
+    }
+
+    .menu-li {
+      float: left;
+      list-style: none;
+      margin-left: 25px;
+      font-size: 10px;
+      position: relative;
+      left: 17%;
+    }
+
+    .menu-li a {
+      text-decoration: none;
+      color: black;
+    }
+
+    .aumentarFonte {
+      position: relative;
+      left: 2px;
+    }
+
+    .header {
+      min-width: 100%;
+      height: 32px;
+      background-color: #f0f0f0;
+      line-height: 30px;
+      /*padding-left: 108px;*/
+    }
+/*pagina add_usuario*/
+ #senha{
+            width: 263px;
+          }
+/*rodape*/
+    .ul-sitemap .sub-sitemap{
+        cursor:pointer;
+        }
+         .sub-sitemap a{
+          cursor:pointer;
+         }
+        
+    /*listar-admin*/
+
+    .button {
+      border: none;
+      background-color: transparent;
+    }
+
+    .header1 {
+      width: 1000px;
+      margin: 0 auto;
+      height: 150px;
+      /*	background-color: #E7EFD2;*/
+      /* background-color: rgba(149, 206, 0, 0.82)*/
+
+      background-color: #f5f5dc;
+    }
+
+    #banner {
+      margin: 0 auto;
+      padding-left: 15%;
+      padding-top: 1%;
+    }
+
+    .font-normal {
+      margin-top: 1px;
+    }
+
+    .menu {
+      width: 100%;
+    }
+    /*menu dropdown*/
+
+    .menudropdown {
+      list-style: none;
+      float: left;
+      margin-left: 1.25%;
+      /*border: 1px solid black;*/
+      /*	margin-top: 27px;*/
+
+      background-color: #EEE;
+    /*  width: 100%;*/
+      width: 1000px;
+    }
+.li-projetos h2{
+    width: 750px;
+    font-size: 17px;
+  }
+  .li-projetos h1{
+  font-size: 20px;
+  margin-left: 300px;
+  }
+    .menudropdown li {
+   position: relative;
+   float: left;
+    
+  }
+  .li-projetos h2{
+    width: 820px;
+    margin-bottom: 20px;
+  }
+  .li-projetos h1{
+  font-size: 20px;
+  margin-bottom: 10px;
+  }
+  .data{
+    position: relative;
+    bottom: 170px;
+  }
+  .autores{
+    width: 400px;
+    padding-bottom: 20px;
+  }
+  /*pagina projetos*/
+  .li-projetos a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+  }
+  /*pagina projetos sinaois*/
+  #content-projetos-sinais{
+        height: 910px;
+        width: 1000px;
+        background-color:#f5f5dc;
+        margin:0 auto;
+        padding-top: 4%;
+    }
+  #content-projetos-sinais ul li{
+      list-style: none;
+      margin: 0 auto;
+      width: 800px;
+      margin-left: 13%;
+      font-size: 17px;
+    }
+
+    /*pagina documentos*/
+    #content-documentos{
+        height: 910px;
+        width: 1000px;
+        background-color:#f5f5dc;
+        margin:0 auto;
+        padding-top: 4%;
+    }
+  #content-documentos ul li{
+      list-style: none;
+      margin: 0 auto;
+      width: 685px;
+      margin-left: 40%;
+      font-size: 17px;
+    }
+     #content-documentos ul li a{
+      text-decoration: none;
+      color: black;
+     }
+     #content-documentos ul li a:hover{
+      text-decoration: none;
+      color: #8DC73F;
+     }
+  /*pagina projetos tecnologia*/
+  #content-projetos-tecnologia{
+        height: 910px;
+        width: 1000px;
+        background-color:#f5f5dc;
+        margin:0 auto;
+        padding-top: 4%;
+    }
+  #content-projetos-tecnologia ul li{
+      list-style: none;
+      margin: 0 auto;
+      width: 800px;
+      margin-left: 13%;
+      font-size: 17px;
+    }
+  /*pagina projeto_xadrez*/
+  #rotulox{
+    text-align: justify;
+    width: 700px;
+  }
+#content-projetos-xadrez{
+        height: 910px;
+        width: 1000px;
+        background-color:#f5f5dc;
+        margin:0 auto;
+        padding-top: 4%;
+    }
+  #content-projetos-xadrez ul li{
+      list-style: none;
+      margin: 0 auto;
+      width: 800px;
+      margin-left: 13%;
+      font-size: 17px;
+    }
+
+    /*pagina projeto-epilepsia*/
+    #content-projetos-epilepsia{
+        height: 610px;
+        width: 1000px;
+        background-color:#f5f5dc;
+        margin:0 auto;
+        padding-top: 4%;
+    }
+  #content-projetos-epilepsia ul li{
+      list-style: none;
+      margin: 0 auto;
+      width: 800px;
+      margin-left: 13%;
+      font-size: 17px;
+    }
+
+  .menudropdown li a {
+    color: #333;
+    text-decoration: none;
+    padding: 5px 10px;
+    display: block;
+    padding-left: 42px;
+    padding-right: 40px;
+  }
+#content-projetos ul li p{
+    text-align: justify;
+    width: 800px;
+  }
+
+    /*pagina projetos*/
+    #content-projetos{
+        height: 680px;
+        width: 1000px;
+        background-color:#f5f5dc;
+        margin:0 auto;
+        padding-top: 4%;
+    }
+    #content-projetos ul li{
+      list-style: none;
+      margin: 0 auto;
+      width: 510px;
+      margin-left: 13%;
+      font-size: 17px;
+    }
+     #content-projetos ul li a:hover{
+      color: #8DC73F;
+      
+     }
+    /*pagina equipe*/
+    #content-equipe{
+        height: 610px;
+        width: 1000px;
+        background-color:#f5f5dc;
+        margin:0 auto;
+        padding-top: 4%;
+    }
+    #content-equipe ul li{
+      list-style: none;
+      margin: 0 auto;
+      width: 300px;
+      margin-left: 35%;
+    }
+
+    /*pagina historico*/
+    #content-historico{
+        width: 1000px;
+        background-color:#f5f5dc;
+        margin:0 auto;
+        padding-top: 4%;
+    }
+
+    #content-historico h1{
+        margin: 0 auto;
+        width: 1000px;
+        font-family: arial;
+        font-size: 19px;
+    }
+
+    #content-historico p{
+        height: 350px;
+        width: 700px;
+        background-color:#f5f5dc;
+        margin:0 auto;
+        padding-top: 2%;
+        font-family: arial;
+        font-size: 17px;
+        text-align: justify;
+    }
+/*pagina contato*/
+    #content-contato{
+        height: 610px;
+        width: 1000px;
+        background-color:#f5f5dc;
+        margin:0 auto;
+        padding-top: 4%;
+    }
+    #content-contato ul {
+      list-style: none;
+      margin: 0 auto;
+      width: 300px;
+      position: relative;
+      margin-left: 40%;
+    }
+     #content-contato ul li {
+      font-size: 16px;
+    }
+    /*pagina projetos*/
+
+    .rotulo{
+    width: 600px;
+    text-align: justify;
+    position: relative;
+    bottom: 183px;
+    left: 300px;
+    }
+    /*pagina parcerias.php*/
+
+    #parceria h1{
+         width: 1000px;
+         margin:0 auto;
+           font-size:20px;
+           position: relative;
+           bottom:20px;
+         }
+         #parceria .parc a:link{
+           text-decoration:none;
+
+         }
+        #parceria{
+        height: 610px;
+        width: 1000px;
+        background-color:#f5f5dc;
+        margin:0 auto;
+        padding-top: 4%;
+
+        }
+         .legenda{
+         margin-left: 25%;
+         width: 125px;
+         margin-top: 2%;
+         color:black;
+         }
+         .parc{
+         width: 230px;
+         height: 270px;
+         float:left;
+         background-color:#f5f5dc;
+         padding-top: 20px;
+        padding-left: 20px;
+
+         }
+        #bloco-parceria{
+        width: 1000px;
+        margin:0 auto;
+    /*    background-color:#f0f0f0;*/
+        }
+
+    .menudropdown li a:hover {
+      background-color: #8DC73F;
+      color: #fff;
+      /*
+       -moz-box-shadow:0 3px 10px 0 #CCC;
+       -webkit-box-shadow:0 3px 10px 0 #ccc;
+    */
+      /*	text-shadow:0px 0px 5px #fff;*/
+    }
+
+    .menudropdown li ul {
+      position: absolute;
+      top: 25px;
+      left: 0px;
+      background-color: #EEE;
+      display: none;
+    }
+
+    .menudropdown li:hover ul,
+    .menudropdown li.over ul {
+      display: block;
+      z-index: 999;
+    }
+
+    .menudropdown li ul li {
+      border: 1px solid #c0c0c0;
+      display: block;
+      width: 150px;
+    }
+    /*content coluna*/
+
+    .conteudo-coluna {
+      width: 1215px;
+      height: 500px;
+      margin: 0 auto;
+      position: relative;
+      right: 12px;
+    }
+
+    .conteudo-home {
+      width: 1215px;
+      margin: 0 auto;
+      position: relative;
+      right: 11px;
+    }
+    /*coluna*/
+
+    .coluna {
+      float: left;
+      margin-top: 20px;
+      width: 40%;
+      text-align: justify;
+      margin-left: 10%;
+      font-family: verdana;
+      /*font-size: 16px;*/
+
+      cursor: text;
+    }
+
+    .coluna1 {
+      float: left;
+      width: 40%;
+      text-align: justify;
+      margin-left: 2%;
+      margin-top: 1.1%;
+      font-family: verdana;
+      /*position: relative;
+       bottom: 430px;*/
+
+      cursor: text;
+    }
+
+    #footer {
+    /*
+      background-color: #f0f0f0;
+      width: 100%;
+      height: 80px;
+      margin-top: 4%;
+    */
+    }
+
+    #tradutor {
+      position: relative;
+      left: 5%;
+    }
+
+    .p-tradutor {
+      margin-left: 10%;
+      margin-top: 3%;
+    }
+
+    #enviar {
+      /*margin-left: 60px;*/
+      /*position: relative;*/
+      /*left: 47%;*/
+
+      margin-top: 134px;
+      /*float: left;*/
+    }
+
+    .conteudo-coluna form {
+      margin-left: 5%;
+    }
+    /*clearfix*/
+
+    .clearfix::before,
+    .clearfix::after {
+      content: "";
+      display: table;
+    }
+
+    .clearfix::after {
+      clear: both;
+    }
+
+    .clearfix {
+      *zoom: 1;
+    }
+    /*sitemap*/
+
+    .sitemap {
+      width: 1000px;
+      margin: 0 auto;
+      position: relative;
+      top: 50px;
+    }
+
+    .li-sitemap {
+      list-style: none;
+      margin-top: 0.5%;
+      font-size: 15px;
+    }
+    /*content da pagina*/
+
+    #content {
+      width: 1000px;
+      margin: 0 auto;
+    }
+
+    .sub-sitemap {
+      margin-left: 1.5%;
+      list-style: none;
+      text-decoration: none;
+      margin-top: 0.5%;
+    }
+
+    .sub-sitemap a {
+      color: black;
+    }
+
+    .li-sitemap a {
+      color: black;
+    }
+    /*botao topo*/
+
+    .botao-topo {
+      background: none;
+      margin-left: 5px;
+      position: relative;
+      left: 10%;
+    }
+    /*sitemap, footer*/
+
+    .map {
+      border-top: 1px solid green;
+      width: 1000px;
+      margin: 0 auto;
+      position: relative;
+      top: 126px; 
+    }
+    /*paginação*/
+    .paginacao{
+     margin:0 auto;
+      width: 1000px;
+      position: relative;
+      top:50px;
+      left: 48%;
+      }
+
+    .img-map {
+      position: relative;
+      bottom: 200px;
+      margin-left: 20%;
+      height: 200px
+    }
+
+    .simbolo {
+      margin-left: 5%;
+    }
+
+    .titulo-sitemap {
+      font-size: 18px;
+      color: green
+    }
+    /*texto rodape*/
+
+    #footer {
+      height: 60px;
+      position: relative;
+      bottom: 0;
+      margin-top: 5%;
+      width: 100%;
+      background-color: #f0f0f0;
+    }
+
+    .p-footer {
+      margin-top: 5.5%;
+    }
+    /*home-noticias*/
+
+    .descricao {
+      margin-top: 10px;
+      position: relative;
+      top: 5px;
+      color: #658404;
+      margin-right:  100px;
+    }
+
+    /*
+    .news {
+      width: 1000px;
+      height: 130px;
+         background-color:#E7EFD2;
+
+      background-color: #f5f5dc;
+      position: relative;
+      top: 30px;
+      margin: 0 auto;
+      margin-top: 1%;
+    }
+    */
+    .news {
+      width: 1000px;
+      height: 130px;
+    /*  background-color:#E7EFD2;*/
+      background-color: #f5f5dc;
+      position: relative;
+      top: 25px;
+      margin: 0 auto;
+      margin-top: 1%;
+    }
+
+    /*menu*/
+    /*.estilo-projetos{
+       width: 152px;
+      }*/
+      .estilo-noticias{
+        margin-right: 20px;
+      }
+
+    /*titulo noticias*/
+
+    .h1-noticias{
+      margin: 0 auto;
+      width: 200px;
+      position: relative;
+      top: 25px;
+      margin-top: 30px;
+      font-size: 18px;
+      }
+    .p-footer-home {
+      position: relative;
+      bottom: 0;
+      height: 100px;
+      margin: 0 auto;
+      line-height: 100px;
+      padding-left: 20%;
+      margin-top: 150px;
+      background-color: #f0f0f0;  
+    }
+
+    .cavg {
+      margin-left: 150px;
+    }
+    /*.simbolo {}*/
+    /*menu*/
+
+    .img-logo {
+      /*     margin-left: 290px;*/
+    }
+
+    .img-cavg {
+      margin-left: 40px;
+    }
+    /*pagina descricao*/
+
+    .description {
+      float: left;
+      width: 600px;
+      margin-left: 20px;
+      margin-top: 20px;
+      text-align: justify;
+    }
+
+    #content-descricao {
+      width: 940px;
+      margin: 0 auto;
+      color: #658404;
+    }
+
+    .title-center {
+      font-size: 16px;
+      /*       float:left;*/
+
+      position: relative;
+    }
+
+    .voltar-home {
+      color: #658404;
+    }
+
+    .uploads {
+      width: 300px;
+      height: 300px;
+      float: left;
+      margin-top: 20px;
+      /*       margin-top: 20px;*/
+    }
+    /*  pagina equipe*/
+      #content-equipe ul li {
+       text-decoration: none;
+          margin-bottom: 15px;
+      }
+    #content-equipe ul li h1{
+      margin-bottom: 20px;
+    }
+
+      .acessibilidade li a:hover, .acessibilidade li:, #box1:hover {
+        color: #3B8D26;
+      }
+      /*.acessibilidade li {display: inline-block; float: left;margin-right:1px;}
+    .acessibilidade li a { color:#fff; font-size:1.4em;padding:10px;vertical-align: middle;display: block; height:auto;
+    -moz-border-radius: 8px; -webkit-border-radius: 8px; -khtml-border-radius: 8px;border-radius: 8px;}
+    .*/
+
+      @charset "utf-8";
+      /* Simple fluid media
+       Note: Fluid media requires that you remove the media's height and width attributes from the HTML
+       http://www.alistapart.com/articles/fluid-images/ 
+    */
+
+      img,
+      object,
+      embed,
+      video {
+        max-width: 100%;
+      }
+      /* IE 6 does not support max-width so default to width 100% */
+
+      .ie6 img {
+        width: 100%;
+      }
+      /*
+       Dreamweaver Fluid Grid Properties
+       ----------------------------------
+       dw-num-cols-mobile:		5;
+       dw-num-cols-tablet:		8;
+       dw-num-cols-desktop:	10;
+       dw-gutter-percentage:	25;
+
+       Inspiration from "Responsive Web Design" by Ethan Marcotte 
+       http://www.alistapart.com/articles/responsive-web-design
+
+       and Golden Grid System by Joni Korpi
+       http://goldengridsystem.com/
+    */
+      /* Mobile Layout: 480px and below. */
+
+      .gridContainer {
+        /*margin-left: auto;*/
+        /*margin-right: auto;*/
+
+        width: 87.36%;
+        /*padding-left: 1.82%;*/
+        /*padding-right: 1.82%;*/
+      }
+      #LayoutDiv1 {
+        clear: both;
+        float: left;
+        /*margin-left: 0;*/
+
+        width: 100%;
+        display: block;
+      }
+      #Conteudo {
+        clear: both;
+        float: left;
+        margin-left: 0;
+        width: 100%;
+        display: block;
+      }
+      /* Tablet Layout: 481px to 768px. Inherits styles from: Mobile Layout. */
+
+      @media only screen and (min-width: 481px) {
+        .gridContainer {
+          /*width: 90.675%;*/
+
+          width: 100%;
+          /*padding-left: 1.1625%;*/
+          /*padding-right: 1.1625%;*/
+
+          margin: 0 auto;
+        }
+        #LayoutDiv1 {
+          clear: both;
+          float: left;
+          margin-left: 0;
+          width: 100%;
+          display: block;
+        }
+        #Conteudo {
+          clear: both;
+          float: left;
+          margin-left: 0;
+          width: 100%;
+          display: block;
+        }
+      }
+      /* Desktop Layout: 769px to a max of 1232px.  Inherits styles from: Mobile Layout and Tablet Layout. */
+
+      @media only screen and (min-width: 769px) {
+        .gridContainer {
+          /*width: 88.2%;
+       max-width: 1232px;
+       padding-left: 0.9%;
+       padding-right: 0.9%;
+       margin: auto;*/
+        }
+        #LayoutDiv1 {
+          clear: both;
+          float: left;
+          margin-left: 0;
+          width: 100%;
+          display: block;
+        }
+        #Conteudo {
+          clear: both;
+          float: left;
+          margin-left: 0;
+          width: 100%;
+          display: block;
+        }
+      }

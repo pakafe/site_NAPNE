@@ -1,0 +1,16 @@
+@charset "utf-8";
+Texto_interno {
+	text-align: justify;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+}
+#layout tr td .TituloSecaoInterna {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+}
+.AlinhamentoColunaNome {
+	text-align: left;
+}
+.TabelaCentro {
+	text-align: center;
+}

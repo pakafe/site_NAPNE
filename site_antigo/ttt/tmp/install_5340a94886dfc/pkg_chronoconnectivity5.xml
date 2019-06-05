@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="1.6">
+	<name>ChronoConnectivity5 Package</name>
+	<author>ChronoEngine.com Team</author>
+	<creationDate>Feb.2014</creationDate>
+	<packagename>chronoconnectivity5</packagename>
+	<version>V5</version>
+	<url>http://www.chronoengine.com/</url>
+	<packager>ChronoEngine.com Team</packager>
+	<license>GPLv2</license>
+	<packagerurl>http://www.www.chronoengine.com.com/</packagerurl>
+	<description>ChronoConnectivity5 extension package (Component + CEGCore library)</description>
+	<files folder="packages">
+		<file type="library" id="cegcore">cegcore.zip</file>
+		<file type="component" id="chronoconnectivity5" >com_chronoconnectivity5.zip</file>
+	</files>
+</extension>
